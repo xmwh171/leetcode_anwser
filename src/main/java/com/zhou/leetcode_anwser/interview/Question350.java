@@ -1,4 +1,4 @@
-package com.zhou.leetcore;
+package com.zhou.leetcode_anwser.interview;
 
 /**
  * @Description 两个数组的交集II

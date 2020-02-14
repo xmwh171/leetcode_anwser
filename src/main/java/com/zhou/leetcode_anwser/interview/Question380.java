@@ -1,4 +1,4 @@
-package com.zhou.leetcore;
+package com.zhou.leetcode_anwser.interview;
 
 /**
  * @Description 常数时间插入、删除和获取随机元素

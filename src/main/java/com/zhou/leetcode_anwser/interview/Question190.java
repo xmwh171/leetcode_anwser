@@ -1,4 +1,4 @@
-package com.zhou.leetcore;
+package com.zhou.leetcode_anwser.interview;
 
 /**
  * @Description 颠倒二进制位

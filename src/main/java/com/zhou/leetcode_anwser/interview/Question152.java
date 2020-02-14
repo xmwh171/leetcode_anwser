@@ -1,4 +1,4 @@
-package com.zhou.leetcore;
+package com.zhou.leetcode_anwser.interview;
 
 /**
  * @Description 乘积最大子序列

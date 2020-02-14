@@ -1,4 +1,4 @@
-package com.zhou.leetcore;
+package com.zhou.leetcode_anwser.interview;
 
 /**
  * @Description 删除链表的倒数第N个节点

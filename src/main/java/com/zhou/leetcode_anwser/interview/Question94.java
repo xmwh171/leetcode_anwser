@@ -1,4 +1,4 @@
-package com.zhou.leetcore;
+package com.zhou.leetcode_anwser.interview;
 
 import javax.swing.tree.TreeNode;
 import java.util.List;
